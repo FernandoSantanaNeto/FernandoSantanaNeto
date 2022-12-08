@@ -1,11 +1,6 @@
 <div align="center">
 <h1>Hi!! I'm Fernando de Santana Neto 👋</h1>
 
-
-
-🔭 Migrating to Web Development area |
-🌱 Currently studying Front-End |
-😄 Pronouns: he/his
 </div>
 
 ##
