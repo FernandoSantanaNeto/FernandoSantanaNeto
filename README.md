@@ -38,4 +38,4 @@
   
   </div>
   
-  ![Snake animation](https://github.com/fesantananeto/fesantananeto/blob/output/github-contribution-grid-snake.svg)
+ 
