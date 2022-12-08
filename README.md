@@ -23,7 +23,7 @@
   <img align="center" alt="Fe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fe-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="right" alt="Fe-pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/pw/AL9nZEUnGh7lKuS-BiQYo3I57vXoGXfFisLx1ZF0n3pPoj9Nk6hYTaMrJjDWXG0KjgnIQVz1Q9VtGKUqXJ8xxil83gUp1wLS6IEUh_BlOmT2Hz21EVqSQjcIzR8ScguwNiA40dF20v84-VUxcMimgMQZkGbV=s600-no?authuser=0">
+  <img align="right" alt="Fe-pic" height="150" style="border-radius:50px;" src="https://im2.ezgif.com/tmp/ezgif-2-155c36c6f8.gif">
 </div>
   
 ##
