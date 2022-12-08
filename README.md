@@ -18,7 +18,7 @@
   <img align="center" alt="Fe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fe-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="right" alt="Fe-pic" width="150" height="150" style="border-radius:80px;" src="https://im2.ezgif.com/tmp/ezgif-2-155c36c6f8.gif">
+  <img align="right" alt="Fe-pic" width="150" height="150" style="border-radius:80px;" src="https://lh3.googleusercontent.com/DCX2I_CC0o3tUgw58fvcE9YDwXlRi7if7O7EJ8hY6_jnF5nxZlt7KBzCDXUSa-cAkcCBOdetGIPB6hhzqBasqPoapEIlEhgShr8nEhPygEl059kJ_ip2cl65QqUclbHQ--BX9RiA0_Y03LsUsO0bf5q9xu7D9EM6v4vXe8vUFe-JQk6Yq7zetKmzLgFxEMXR9pGq1xMvOb_Z1diKaRdN_wtPLoyyeYwO_9FqozOGO53LH0vcLI7N8YyOQwA-FEEQ8eObsnauE2nG81-URiptXTGrV_chLMcdfRguB6FFsOg702fDKoGvaKuP8rol8rImsHKYCs6WMSuInhETb38NGwx9pl_J3u5OkKxNkx4sKUc2AwogK-vK3Eq_kEfsNL_daLngI1dZ03NKzziaYaNzw-a-UIRHNhjEL4nKpjXYiguSP7NfLQYhO7_vgahJ81SqORnY-kV7-ADvv-malduUwu_L6e8-fZpPmoyNKDGwrJam9kMwK7oPAyfuFAfrfaJ-J-uVPEecTEIyCTSnr_o324b36jbAvs58ItlxWc_8CDlg7VMPTXqZjphDxOCEd_XDel00lFmrqj-xRC7N3XiFFsYr41Xo8DmuHv1Ox8QUHy0geXteVxuJ_NNlHCMWFrV-5zKyZTbZyco_vlc_YmnyKLuMDgw8jGnP-eK5emcY2kosGxHo6Aw0aJyQ4Cj4yiMqPQKtxHFfg47iD2vQ7vqU7pNRQC02HrdXKxzj1dSNmkTEUGv9jnW-QNVWqHiCIa1DxGW1fC5mGDuoKTO-jK-b7x2jrC-Npb6f77DAjMkTy-HOn6iZ4-lAYSia7I9IIkKxVTlOmmSpJraQlsuTkPvT655nMcibxYL_7Y0TNlM5SzVCgFZz08_TrtQpUnjXhF2_MY4q9aUeFsdgeZo_hdgCQ71YDHVrAquqHncOhgIWV6wRbldMgMX1T4ModTD7igIv8mKJthiSYMgR2rmGuS-NPg=w445-h444-no?authuser=0">
 </div>
   
 ##
